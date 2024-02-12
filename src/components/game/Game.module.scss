@@ -1,0 +1,18 @@
+.wrapper {
+  min-height: 100vh;
+  width: 100%;
+  background: #222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+
+  .title {
+    color: #fff;
+  }
+
+  .startButton {
+    color: #fff;
+  }
+}
